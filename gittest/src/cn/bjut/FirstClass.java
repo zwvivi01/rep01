@@ -10,6 +10,7 @@ public class FirstClass {
 
     public void test() {
         System.out.println(1212121);
+        System.out.println(111111);
     }
 
 }
